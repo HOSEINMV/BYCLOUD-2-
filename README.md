@@ -10,7 +10,7 @@ COMMAND:
 
 $git clone https://github.com/HOSEINMV/BYCLOUD-2-/
 
-$cd BYCLOUD
+$cd BYCLOUD-2-/
 
 $python BYCLOUD.py
 
